@@ -1,2 +1,2 @@
 # Almabetter_Project
-Capstone Project EDA
+Capstone Project EDA Hotel Analysis
